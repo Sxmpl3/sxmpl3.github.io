@@ -24,7 +24,7 @@ url                      : "https://sxmpl3.github.io" # the base hostname & prot
 baseurl                  : #
 repository               : "Sxmpl3/sxmpl3.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : #
-teaser                   : #
+teaser                   : ##
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
