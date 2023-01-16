@@ -8,7 +8,7 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+# https://mmistakes.github."/assets/images/logo.jpeg"io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
@@ -23,7 +23,7 @@ description              : "Sxmpl3's website about Cybersecurity, CTFs and News"
 url                      : "https://sxmpl3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Sxmpl3/sxmpl3.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : #
+logo                     : "/assets/images/logo.jpeg"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
