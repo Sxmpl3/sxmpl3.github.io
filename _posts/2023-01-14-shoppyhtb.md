@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Shoppy Writeup
-excerpt: "Shoppy es una máquina easy de la plataforma HackTheBox"
+excerpt: "Shoppy es una máquina easy de la plataforma HackTheBox, en esta máquina nos enfrentaremos a un NoSQLi de MongoDB y ganaremos acceso a una plataforma de mensajeria alojada en un subdominio, en ella se encontraran credenciales las cuales podemos usar para conectarnos por ssh, escalaremos privilegios aprovechando que pertenecemos al grupo Docker."
 date: 2023-01-12
 classes: wide
 header:
