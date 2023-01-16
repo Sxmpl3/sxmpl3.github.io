@@ -8,7 +8,7 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github."/assets/images/logo.jpeg"io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 # Site Settings
 locale                   : "en-US"
 title                    : "Sxmpl3's blog"
-title_separator          : "favicon.ico"
+title_separator          : "-"
 name                     : "Sxmpl3"
 description              : "Sxmpl3's website about Cybersecurity, CTFs and News"
-url                      : "https://sxmpl3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #
-repository               : "Sxmpl3/sxmpl3.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : #
-teaser                   : ##
+url                      : "https://Sxmpl3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "Sxmpl3/Sxmpl3.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo                     : #"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Sxmpl3"
   avatar           : "/assets/images/logo.jpeg"
-  bio              : "eJPTv2 | eCPPTv2 | Red Team" #<br>HackTheBox ATeam"
+  bio              : "eJPTv2 | eCPPTv2 in progress | Red Team" #<br>HackTheBox ATeam"
   location         : "Spain"
-  email            : #
+  email            : #"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,19 +114,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sxmpl3"
+  github           : "Slayer0x"
   gitlab           :
   google_plus      :
   keybase          : #"snowscan"
   instagram        :
   lastfm           :
-  linkedin         : izan-cano-gonzález-179b20257/
+  linkedin         : "izan-cano-gonzález-179b20257"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : #
+  twitter          : #"
   vine             :
   weibo            :
   xing             :
@@ -233,9 +233,6 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
