@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Slayer0x.io"
+title                    : "sxmpl3.io"
 title_separator          : "-"
-name                     : "Slayer"
-description              : "Slayer's website about Cybersecurity, CTFs and News"
-url                      : "https://Slayer0x.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Sxmpl3"
+description              : "Sxmpl3's website about Cybersecurity, CTFs and News"
+url                      : "https://sxmpl3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Slayer0x/Slayer0x.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/masthead.png"
+repository               : "Sxmpl3/sxmpl3.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+logo                     : "/assets/images/logo.jpeg"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Slayer"
-  avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player" #<br>HackTheBox ATeam"
+  name             : "Sxmpl3"
+  avatar           : "/assets/images/logo.jpeg"
+  bio              : "eJPTv2 | eCPPTv2 | Red Team" #<br>HackTheBox ATeam"
   location         : "Spain"
-  email            : #"
+  email            : #
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,19 +114,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Slayer0x"
+  github           : "Sxmpl3"
   gitlab           :
   google_plus      :
   keybase          : #"snowscan"
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : izan-cano-gonzález-179b20257/
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "Bug_Account"
+  twitter          : #
   vine             :
   weibo            :
   xing             :
