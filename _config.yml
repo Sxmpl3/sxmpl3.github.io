@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Sxmpl3"
 description              : "Sxmpl3's website about Cybersecurity, CTFs and News"
 url                      : "https://sxmpl3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/index"
+baseurl                  : #
 repository               : "Sxmpl3/sxmpl3.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : #
 teaser                   : "/assets/images/logo.jpeg"
